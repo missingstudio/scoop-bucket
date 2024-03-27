@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/missingstudio/gateway/releases/download/v0.0.1/gateway_Windows_x86_64.zip",
+            "bin": [
+                "gateway.exe"
+            ],
+            "hash": "1610e99d69ee12416233ffd06a5fa48d119064d10b34cd1317e14d4ae088bccf"
+        },
+        "arm64": {
+            "url": "https://github.com/missingstudio/gateway/releases/download/v0.0.1/gateway_Windows_arm64.zip",
+            "bin": [
+                "gateway.exe"
+            ],
+            "hash": "5575571787e2d215193e6a362cee88718b42ddaa6c34a475352bf9f45d3d956b"
+        }
+    },
+    "homepage": "https://github.com/raystack/gateway",
+    "license": "Apache 2.0",
+    "description": "A robust cloud-native AI Gateway"
+}

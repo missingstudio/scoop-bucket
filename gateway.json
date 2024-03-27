@@ -6,14 +6,14 @@
             "bin": [
                 "gateway.exe"
             ],
-            "hash": "1610e99d69ee12416233ffd06a5fa48d119064d10b34cd1317e14d4ae088bccf"
+            "hash": "7188acd7a90dc3fa0ae8b59d3986d9a09156f156cf959bb6be52481290bae9c4"
         },
         "arm64": {
             "url": "https://github.com/missingstudio/gateway/releases/download/v0.0.1/gateway_Windows_arm64.zip",
             "bin": [
                 "gateway.exe"
             ],
-            "hash": "5575571787e2d215193e6a362cee88718b42ddaa6c34a475352bf9f45d3d956b"
+            "hash": "e975d5ff7cf10f7b11f3106b13d38e05760ba9a51d6bd3dbfc7eef605855aa01"
         }
     },
     "homepage": "https://github.com/raystack/gateway",
